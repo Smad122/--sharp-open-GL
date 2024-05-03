@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="CG_RGZ.exe" version="1.0.0.0" publicKeyToken="e9dd2b7baab75f98" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="CG_RGZ" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="CG_RGZ.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Параметры манифеста UAC
+          Если нужно изменить уровень контроля учетных записей Windows, замените 
+          узел requestedExecutionLevel одним из следующих значений.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+        Если нужно использовать виртуализацию файлов и реестра для обратной
+             совместимости, удалите узел requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CG_RGZ.exe" size="14816">
+      <assemblyIdentity name="CG_RGZ" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>BUZIewk+3oAcgvDvnRkQTY37TiEUkIYCtnKSFEFEnc8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SharpGL.dll" size="366592">
+      <assemblyIdentity name="SharpGL" version="3.1.1.0" publicKeyToken="27FC851303210B27" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>UXTAAgo/fDyaLMZglk80/1UaP1RS5VGG0J+KH/hePxs=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SharpGL.SceneGraph.dll" size="136192">
+      <assemblyIdentity name="SharpGL.SceneGraph" version="3.1.1.0" publicKeyToken="27FC851303210B27" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>09H4qwHk22zWUOcpEVw7FOTrbQKNjgJ9y5EEgHT1vqU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SharpGL.Serialization.dll" size="22016">
+      <assemblyIdentity name="SharpGL.Serialization" version="3.1.1.0" publicKeyToken="27FC851303210B27" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>sYVpf30GiAtnCJWP+heXDZWF+ObBqKiwIBdTdwH6Wlc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SharpGL.WinForms.dll" size="22528">
+      <assemblyIdentity name="SharpGL.WinForms" version="3.1.1.0" publicKeyToken="27FC851303210B27" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>xurULDZTTfY70Mf0PIN5idgVBRsSGALnFqG7Fj1jqmc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="System.Drawing.Common.dll" size="51248">
+      <assemblyIdentity name="System.Drawing.Common" version="4.0.0.1" publicKeyToken="CC7B13FFCD2DDD51" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>X6ss9XMR2B9Nfflq0TpTJ1rlTP+2nsLkunt9xwaggKE=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="CG_RGZ.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>+CM46OnHRrXZXNLMx7+U3V3iubiYL//d8hGOR13lDhU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="SharpGL.ico" size="1150">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>NLmyW5/QFxuDgxdXA6OpG31NWMrg8kY4FesIshisMwE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="SharpGL.png" size="3519">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>MaqMmLMVUjSWZ0XUusV59G6XwUf/IwrFRp8EhrdlSdI=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=LAPTOP-NNRR3RDQ\smadr" issuerKeyHash="60fa123050ef2e74bc17d826c938e767c8fffcfe" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>9ioDS/N6nFit8Zj512xGIzCB35xcxBij1DNJulnTBuA=</DigestValue></Reference></SignedInfo><SignatureValue>Ido3daTKSOfx2eFJF2HLw/NHg4m/0qDzC8Ulnjz48Pike2mZzn52XbrTuOR57lu+7Eddco/rxUu97LWhYQYhlIEdV0o29NuarHTObkJAw6h4kozqUyjILxiyL/Jatznr9bl3tmO6s/hU5rbSD+VamwvAi6MYCnqgckZT+JgppaM=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>1Fl6Eo3sUsSqhHd8g58Rcv35foZMq51GWMh1YR0tbw1k3iC/VAflAdMMxdJ4RxQY+Q2/zb8UzQGr0wc/BfQ19wvE7cW3hmLXR3zmwrvmtZnLxSlFHmt7iDPXhfNlwJls6PkR/AaF4CkHOPyub2gIQgoxguuPC4r/GfEVdftegiE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="e006d359ba4933d4a318c45c9cdf813023466cd7f998f1ad589c7af34b032af6" Description="" Url=""><as:assemblyIdentity name="CG_RGZ.exe" version="1.0.0.0" publicKeyToken="e9dd2b7baab75f98" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=LAPTOP-NNRR3RDQ\smadr</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>2B0RKIFOf3K/Z+QWx4bcYuJoqCGTh2drrRC8vY7iITo=</DigestValue></Reference></SignedInfo><SignatureValue>g4qPszeFGsPxIwMO0sEM339EGv2VmeZGL/GKUUPVE/dmtMqmt5WaRrKN2g+JQX1/xN3ONlbdt6hXaVmceGvEW2tld1d4znsHXq2VT7+orqy2EqMuwTGsuNTGsSzHJkK/V7SIZ1yrlJuj8kNApoG/akJXV54cSYwhLxt2ty7ljHw=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>1Fl6Eo3sUsSqhHd8g58Rcv35foZMq51GWMh1YR0tbw1k3iC/VAflAdMMxdJ4RxQY+Q2/zb8UzQGr0wc/BfQ19wvE7cW3hmLXR3zmwrvmtZnLxSlFHmt7iDPXhfNlwJls6PkR/AaF4CkHOPyub2gIQgoxguuPC4r/GfEVdftegiE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQEMPPicQbRopGjukAimfUNjANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioATABBAFAAVABPAFAALQBOAE4AUgBSADMAUgBEAFEAXABzAG0AYQBkAHIwHhcNMjMwNjAxMDMyMjU3WhcNMjQwNTMxMDkyMjU3WjA1MTMwMQYDVQQDHioATABBAFAAVABPAFAALQBOAE4AUgBSADMAUgBEAFEAXABzAG0AYQBkAHIwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBANRZehKN7FLEqoR3fIOfEXL9+X6GTKudRljIdWEdLW8NZN4gv1QH5QHTDMXSeEcUGPkNv82/FM0Bq9MHPwX0NfcLxO3Ft4Zi10d85sK75rWZy8UpRR5re4gz14XzZcCZbOj5EfwGheApBzj8rm9oCEIKMYLrjwuK/xnxFXX7XoIhAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAf4btOAIhH5zTw05vLA6pAxZ/Oe3OS1XIVb3s6bHzGHdtCQQKNXnSclZ8aUhuphAMR4xjKU9a30Y0aD13x8YczF1d6k27JDU/ncghYbvD6pfR1904Y2BZI+O8yktaeyHt3BQZzSBF0HM+uXE3vMjqpvP1MVUwfLx0hc8LrE+o7OM=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

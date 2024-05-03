@@ -1,0 +1,88 @@
+C:\Users\mksh2\RiderProjects\CG_RGZ\CG_RGZ\CG_RGZ\bin\Debug\CG_RGZ.exe.config
+C:\Users\mksh2\RiderProjects\CG_RGZ\CG_RGZ\CG_RGZ\bin\Debug\CG_RGZ.exe
+C:\Users\mksh2\RiderProjects\CG_RGZ\CG_RGZ\CG_RGZ\bin\Debug\CG_RGZ.pdb
+C:\Users\mksh2\RiderProjects\CG_RGZ\CG_RGZ\CG_RGZ\bin\Debug\SharpGL.dll
+C:\Users\mksh2\RiderProjects\CG_RGZ\CG_RGZ\CG_RGZ\bin\Debug\SharpGL.xml
+C:\Users\mksh2\RiderProjects\CG_RGZ\CG_RGZ\CG_RGZ\obj\Debug\CG_RGZ.csproj.AssemblyReference.cache
+C:\Users\mksh2\RiderProjects\CG_RGZ\CG_RGZ\CG_RGZ\obj\Debug\CG_RGZ.csproj.SuggestedBindingRedirects.cache
+C:\Users\mksh2\RiderProjects\CG_RGZ\CG_RGZ\CG_RGZ\obj\Debug\CG_RGZ.Properties.Resources.resources
+C:\Users\mksh2\RiderProjects\CG_RGZ\CG_RGZ\CG_RGZ\obj\Debug\CG_RGZ.csproj.GenerateResource.cache
+C:\Users\mksh2\RiderProjects\CG_RGZ\CG_RGZ\CG_RGZ\obj\Debug\CG_RGZ.csproj.CoreCompileInputs.cache
+C:\Users\mksh2\RiderProjects\CG_RGZ\CG_RGZ\CG_RGZ\obj\Debug\CG_RGZ.csproj.CopyComplete
+C:\Users\mksh2\RiderProjects\CG_RGZ\CG_RGZ\CG_RGZ\obj\Debug\CG_RGZ.exe
+C:\Users\mksh2\RiderProjects\CG_RGZ\CG_RGZ\CG_RGZ\obj\Debug\CG_RGZ.pdb
+C:\Users\mksh2\RiderProjects\CG_RGZ\CG_RGZ\CG_RGZ\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\mksh2\RiderProjects\CG_RGZ\CG_RGZ\CG_RGZ\bin\Debug\SharpGL.WinForms.dll
+C:\Users\mksh2\RiderProjects\CG_RGZ\CG_RGZ\CG_RGZ\bin\Debug\System.Drawing.Common.dll
+C:\Users\mksh2\RiderProjects\CG_RGZ\CG_RGZ\CG_RGZ\bin\Debug\SharpGL.SceneGraph.xml
+C:\Users\mksh2\RiderProjects\CG_RGZ\CG_RGZ\CG_RGZ\bin\Debug\SharpGL.WinForms.xml
+C:\Users\mksh2\RiderProjects\CG_RGZ\CG_RGZ\CG_RGZ\obj\Debug\CG_RGZ.Form1.resources
+C:\Users\mksh2\RiderProjects\CG_RGZ\CG_RGZ\CG_RGZ\bin\Debug\SharpGL.Serialization.dll
+C:\Users\mksh2\RiderProjects\CG_RGZ\CG_RGZ\CG_RGZ\bin\Debug\SharpGL.Serialization.xml
+D:\KGRGZ\CG_RGZ\CG_RGZ\bin\Debug\CG_RGZ.exe.config
+D:\KGRGZ\CG_RGZ\CG_RGZ\bin\Debug\CG_RGZ.exe
+D:\KGRGZ\CG_RGZ\CG_RGZ\bin\Debug\CG_RGZ.pdb
+D:\KGRGZ\CG_RGZ\CG_RGZ\bin\Debug\SharpGL.dll
+D:\KGRGZ\CG_RGZ\CG_RGZ\bin\Debug\SharpGL.SceneGraph.dll
+D:\KGRGZ\CG_RGZ\CG_RGZ\bin\Debug\SharpGL.Serialization.dll
+D:\KGRGZ\CG_RGZ\CG_RGZ\bin\Debug\SharpGL.WinForms.dll
+D:\KGRGZ\CG_RGZ\CG_RGZ\bin\Debug\System.Drawing.Common.dll
+D:\KGRGZ\CG_RGZ\CG_RGZ\bin\Debug\SharpGL.xml
+D:\KGRGZ\CG_RGZ\CG_RGZ\bin\Debug\SharpGL.SceneGraph.xml
+D:\KGRGZ\CG_RGZ\CG_RGZ\bin\Debug\SharpGL.Serialization.xml
+D:\KGRGZ\CG_RGZ\CG_RGZ\bin\Debug\SharpGL.WinForms.xml
+D:\KGRGZ\CG_RGZ\CG_RGZ\obj\Debug\CG_RGZ.csproj.AssemblyReference.cache
+D:\KGRGZ\CG_RGZ\CG_RGZ\obj\Debug\CG_RGZ.csproj.SuggestedBindingRedirects.cache
+D:\KGRGZ\CG_RGZ\CG_RGZ\obj\Debug\CG_RGZ.Form1.resources
+D:\KGRGZ\CG_RGZ\CG_RGZ\obj\Debug\CG_RGZ.Properties.Resources.resources
+D:\KGRGZ\CG_RGZ\CG_RGZ\obj\Debug\CG_RGZ.csproj.GenerateResource.cache
+D:\KGRGZ\CG_RGZ\CG_RGZ\obj\Debug\CG_RGZ.csproj.CoreCompileInputs.cache
+D:\KGRGZ\CG_RGZ\CG_RGZ\obj\Debug\CG_RGZ.csproj.CopyComplete
+D:\KGRGZ\CG_RGZ\CG_RGZ\obj\Debug\CG_RGZ.exe
+D:\KGRGZ\CG_RGZ\CG_RGZ\obj\Debug\CG_RGZ.pdb
+C:\Users\anton\OneDrive\Рабочий стол\KGSTARSHII\KGRGZ\CG_RGZ\CG_RGZ\bin\Debug\CG_RGZ.exe.config
+C:\Users\anton\OneDrive\Рабочий стол\KGSTARSHII\KGRGZ\CG_RGZ\CG_RGZ\bin\Debug\CG_RGZ.exe
+C:\Users\anton\OneDrive\Рабочий стол\KGSTARSHII\KGRGZ\CG_RGZ\CG_RGZ\bin\Debug\CG_RGZ.pdb
+C:\Users\anton\OneDrive\Рабочий стол\KGSTARSHII\KGRGZ\CG_RGZ\CG_RGZ\bin\Debug\SharpGL.dll
+C:\Users\anton\OneDrive\Рабочий стол\KGSTARSHII\KGRGZ\CG_RGZ\CG_RGZ\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\anton\OneDrive\Рабочий стол\KGSTARSHII\KGRGZ\CG_RGZ\CG_RGZ\bin\Debug\SharpGL.Serialization.dll
+C:\Users\anton\OneDrive\Рабочий стол\KGSTARSHII\KGRGZ\CG_RGZ\CG_RGZ\bin\Debug\SharpGL.WinForms.dll
+C:\Users\anton\OneDrive\Рабочий стол\KGSTARSHII\KGRGZ\CG_RGZ\CG_RGZ\bin\Debug\System.Drawing.Common.dll
+C:\Users\anton\OneDrive\Рабочий стол\KGSTARSHII\KGRGZ\CG_RGZ\CG_RGZ\bin\Debug\SharpGL.xml
+C:\Users\anton\OneDrive\Рабочий стол\KGSTARSHII\KGRGZ\CG_RGZ\CG_RGZ\bin\Debug\SharpGL.SceneGraph.xml
+C:\Users\anton\OneDrive\Рабочий стол\KGSTARSHII\KGRGZ\CG_RGZ\CG_RGZ\bin\Debug\SharpGL.Serialization.xml
+C:\Users\anton\OneDrive\Рабочий стол\KGSTARSHII\KGRGZ\CG_RGZ\CG_RGZ\bin\Debug\SharpGL.WinForms.xml
+C:\Users\anton\OneDrive\Рабочий стол\KGSTARSHII\KGRGZ\CG_RGZ\CG_RGZ\obj\Debug\CG_RGZ.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Рабочий стол\KGSTARSHII\KGRGZ\CG_RGZ\CG_RGZ\obj\Debug\CG_RGZ.csproj.SuggestedBindingRedirects.cache
+C:\Users\anton\OneDrive\Рабочий стол\KGSTARSHII\KGRGZ\CG_RGZ\CG_RGZ\obj\Debug\CG_RGZ.Form1.resources
+C:\Users\anton\OneDrive\Рабочий стол\KGSTARSHII\KGRGZ\CG_RGZ\CG_RGZ\obj\Debug\CG_RGZ.Properties.Resources.resources
+C:\Users\anton\OneDrive\Рабочий стол\KGSTARSHII\KGRGZ\CG_RGZ\CG_RGZ\obj\Debug\CG_RGZ.csproj.GenerateResource.cache
+C:\Users\anton\OneDrive\Рабочий стол\KGSTARSHII\KGRGZ\CG_RGZ\CG_RGZ\obj\Debug\CG_RGZ.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\KGSTARSHII\KGRGZ\CG_RGZ\CG_RGZ\obj\Debug\CG_RGZ.csproj.CopyComplete
+C:\Users\anton\OneDrive\Рабочий стол\KGSTARSHII\KGRGZ\CG_RGZ\CG_RGZ\obj\Debug\CG_RGZ.exe
+C:\Users\anton\OneDrive\Рабочий стол\KGSTARSHII\KGRGZ\CG_RGZ\CG_RGZ\obj\Debug\CG_RGZ.pdb
+D:\ccc\KG_RGZ_M5\CG_RGZ\CG_RGZ\bin\Debug\CG_RGZ.exe.config
+D:\ccc\KG_RGZ_M5\CG_RGZ\CG_RGZ\bin\Debug\CG_RGZ.exe
+D:\ccc\KG_RGZ_M5\CG_RGZ\CG_RGZ\bin\Debug\CG_RGZ.pdb
+D:\ccc\KG_RGZ_M5\CG_RGZ\CG_RGZ\bin\Debug\SharpGL.dll
+D:\ccc\KG_RGZ_M5\CG_RGZ\CG_RGZ\bin\Debug\SharpGL.SceneGraph.dll
+D:\ccc\KG_RGZ_M5\CG_RGZ\CG_RGZ\bin\Debug\SharpGL.Serialization.dll
+D:\ccc\KG_RGZ_M5\CG_RGZ\CG_RGZ\bin\Debug\SharpGL.WinForms.dll
+D:\ccc\KG_RGZ_M5\CG_RGZ\CG_RGZ\bin\Debug\System.Drawing.Common.dll
+D:\ccc\KG_RGZ_M5\CG_RGZ\CG_RGZ\bin\Debug\SharpGL.xml
+D:\ccc\KG_RGZ_M5\CG_RGZ\CG_RGZ\bin\Debug\SharpGL.SceneGraph.xml
+D:\ccc\KG_RGZ_M5\CG_RGZ\CG_RGZ\bin\Debug\SharpGL.Serialization.xml
+D:\ccc\KG_RGZ_M5\CG_RGZ\CG_RGZ\bin\Debug\SharpGL.WinForms.xml
+D:\ccc\KG_RGZ_M5\CG_RGZ\CG_RGZ\obj\Debug\CG_RGZ.csproj.AssemblyReference.cache
+D:\ccc\KG_RGZ_M5\CG_RGZ\CG_RGZ\obj\Debug\CG_RGZ.csproj.SuggestedBindingRedirects.cache
+D:\ccc\KG_RGZ_M5\CG_RGZ\CG_RGZ\obj\Debug\CG_RGZ.Form1.resources
+D:\ccc\KG_RGZ_M5\CG_RGZ\CG_RGZ\obj\Debug\CG_RGZ.Properties.Resources.resources
+D:\ccc\KG_RGZ_M5\CG_RGZ\CG_RGZ\obj\Debug\CG_RGZ.csproj.GenerateResource.cache
+D:\ccc\KG_RGZ_M5\CG_RGZ\CG_RGZ\obj\Debug\CG_RGZ.csproj.CoreCompileInputs.cache
+D:\ccc\KG_RGZ_M5\CG_RGZ\CG_RGZ\obj\Debug\CG_RGZ.csproj.CopyComplete
+D:\ccc\KG_RGZ_M5\CG_RGZ\CG_RGZ\obj\Debug\CG_RGZ.exe
+D:\ccc\KG_RGZ_M5\CG_RGZ\CG_RGZ\obj\Debug\CG_RGZ.pdb
+D:\ccc\KG_RGZ_M5\CG_RGZ\CG_RGZ\bin\Debug\CG_RGZ.exe.manifest
+D:\ccc\KG_RGZ_M5\CG_RGZ\CG_RGZ\bin\Debug\CG_RGZ.application
+D:\ccc\KG_RGZ_M5\CG_RGZ\CG_RGZ\obj\Debug\CG_RGZ.exe.manifest
+D:\ccc\KG_RGZ_M5\CG_RGZ\CG_RGZ\obj\Debug\CG_RGZ.application
